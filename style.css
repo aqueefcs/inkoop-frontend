@@ -333,7 +333,7 @@ span#noEasy:hover {
   transition: margin 1s ease-in-out;
 }
 }
-@media (max-width:700px) {
+@media (max-width:600px) {
   body{
     width: auto;
   }
@@ -384,8 +384,8 @@ span#noEasy:hover {
     height: 0px;
     transition: all 0.3s ease-in;
     overflow-y: hidden;
-    top: 260px;
-    left: 170px;
+    top: 280px;
+    left: 200px;
     z-index: 9999;
   }
   .nav > .nav-links > a {
